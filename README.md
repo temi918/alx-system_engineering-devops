@@ -1,1 +1,1 @@
-Shell permissions
+Learning everything about shell
